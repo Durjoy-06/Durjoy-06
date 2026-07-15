@@ -72,8 +72,8 @@ class Durjoy:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/durjoy-banik06)
-[![Email](https://img.shields.io/badge/Email-e94560?style=for-the-badge&logo=gmail&logoColor=white)](durjoybanik06@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durjoy-banik06)
+[![Email](https://img.shields.io/badge/Email-e94560?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durjoybanik06@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
