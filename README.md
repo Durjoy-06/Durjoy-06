@@ -69,6 +69,50 @@ class Durjoy:
 
 <br>
 
+## 🛠️ Tech Stack
+
+**Web & Frontend**
+<p>
+<a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
+<a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+<a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+</p>
+
+**Backend & Infra**
+<p>
+<a href="https://supabase.com" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" /></a>
+<a href="https://firebase.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" /></a>
+<a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
+<a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+<a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+**AI / ML Core**
+<p>
+<a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
+<a href="https://www.tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
+<a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
+</p>
+<p>
+<a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+<a href="https://numpy.org" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+<a href="https://scikit-learn.org" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /></a>
+<a href="https://matplotlib.org" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" /></a>
+</p>
+
+**Deployment & APIs**
+<p>
+<a href="https://streamlit.io" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+<a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+<a href="https://ai.google.dev" target="_blank"><img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /></a>
+<a href="https://xgboost.readthedocs.io" target="_blank"><img src="https://img.shields.io/badge/XGBoost-EB0028?style=for-the-badge&logo=xgboost&logoColor=white" /></a>
+</p>
+
+<br>
 ## 🎯 Research Interests
 `Applied Machine Learning` · `LLM-Integrated Systems` · `Predictive Modeling` · `MLOps & Deployment` · `Data-Centric AI`
 
