@@ -42,8 +42,6 @@ class Durjoy:
 | **[COVID-19 Data Analysis](https://github.com/Durjoy-06/Covid-analysis)** | Statistical analysis pipeline on multi-country case data — cleaning, aggregation, and trend visualization from raw CSVs | `Pandas` `NumPy` `Matplotlib` | [Repo](https://github.com/Durjoy-06/Covid-analysis) |
 | **[Messi Legacy](https://github.com/Durjoy-06/Messi-legacy)** | Front-end tribute site — responsive layout and animation work outside the ML stack | `HTML` `CSS` `JavaScript` | [🔴 Live Site](https://messi-legacy-nu.vercel.app) |
 
-> 💡 Pinning tip: on your GitHub profile, pin the churn system + talent_hub first — they carry the strongest ML/AI signal for recruiters.
-
 <br>
 
 ## 📊 GitHub Activity
