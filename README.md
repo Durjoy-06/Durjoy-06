@@ -12,6 +12,11 @@
 
 ## ⚡ Snapshot
 
+<details open>
+<summary><b>Click to expand/collapse</b></summary>
+
+<br>
+
 ```python
 class Durjoy:
     def __init__(self):
@@ -25,6 +30,7 @@ class Durjoy:
         return "A model that isn't deployed is a hypothesis, not a product."
 ```
 
+</details>
 <br>
 
 ## 🧠 Featured Work
